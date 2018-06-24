@@ -6,7 +6,7 @@
 2. Filter data sets based on nesting
 3. Handle errors in nested routes
 
-## Overview
+## Overviewi
 
 In this lab, we're going to extend our song library using nested
 resources to build new routes for our artists and songs. Then, we'll use
